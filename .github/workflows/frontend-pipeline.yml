@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  DOCKER_IMAGE: EnochEesa/cake-frontend:V2
+  DOCKER_IMAGE: docker.io/fredrick1423/cake-frontend:V2
   AWS_REGION: us-east-2
 
 jobs:
